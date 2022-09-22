@@ -1,0 +1,39 @@
+.red{
+    color: red;
+    position: sticky;
+    font-style: oblique;
+    left: 40px;
+    top: 20px;
+    display: inline;
+}
+h1{
+    font-family: sans-serif;
+    color: blueviolet;
+    text-align:center;
+    font-size: x-large;
+    text-decoration: underline;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 10px;
+    text-shadow:crimson;
+    font-weight: bold;
+    color: red;
+    background-color: aqua;
+    font-weight: 10cm;
+    display: inline-block;
+    font-size: xx-large;
+}
+
+
+button:hover {
+    color: white;
+   
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  button:active {
+    
+    color: white;
+    background-color: orange;
+    font-family:'Franklin Gothic Medium';}
